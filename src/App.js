@@ -8,6 +8,9 @@ function App() {
       <Header />
       <DayList />
       <Day />
+      <Day />
+      <Day />
+      <Day />
     </div>
   );
 }
